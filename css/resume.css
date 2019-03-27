@@ -26,6 +26,23 @@ img{
     border-width: 5px;
     border-style: solid;
 }
+.resizeBottle{
+  margin-left: 20px;
+float: right;
+  border-color: red;
+    border-width: 5px;
+    border-style: solid;
+    height: 30%;
+    width: 25%
+}
+.resizeLamp{
+  /* margin-left: 20px; */
+float: right;
+  border-color: red;
+    border-width: 5px;
+    border-style: solid;
+    width: 25%
+}
 td, th {
   border: 1px solid #dddddd;
   text-align: left;
