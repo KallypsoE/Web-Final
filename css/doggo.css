@@ -23,20 +23,19 @@ li a:hover:not(.active) {
   color: white;
 }
 html{
-background-color: #a0a4aa;
+  background-color: #c6cad1;
 }
+
+h1{
+  font-family: Lobster;
+  color: #4a3789;
+}
+
+h2{
+  color: #000000;
+  font-family: Bold italic serif;
+}
+
 p{
-  font-family: Lucida Console;
-   text-align: center;
-}
-
-.resizerecipe{
-  height: 625px;
-  width: 600px;
-  margin-left: 20%
-}
-
-.resizefavoritedogs{
-  height: 625px;
-  width: 800px;
+  font-family:  Helvetica;
 }

@@ -25,18 +25,34 @@ li a:hover:not(.active) {
 html{
 background-color: #a0a4aa;
 }
+div.a {
+  text-align: center;
+}
+.resizebrian{
+  height: 600px;
+  width: 675px;
+}
+.resizebart{
+  height: 600px;
+  width: 550px;
+  margin-left: 34%
+}
+.resizekate{
+  height: 500px;
+  width: 500px;
+}
+.resizekart{
+  height: 500px;
+  width: 450px;
+  margin-left: 48%
+}
+h2{
+
+  font-family:lobster;
+}
 p{
-  font-family: Lucida Console;
-   text-align: center;
+   font-family:verdana;
 }
-
-.resizerecipe{
-  height: 625px;
-  width: 600px;
-  margin-left: 20%
-}
-
-.resizefavoritedogs{
-  height: 625px;
-  width: 800px;
+h1{
+  font-family:lobster;
 }
