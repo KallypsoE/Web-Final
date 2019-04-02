@@ -34,8 +34,10 @@ h1{
 h2{
   color: #000000;
   font-family: Bold italic serif;
+   line-height: 1.6;
 }
 
 p{
   font-family:  Helvetica;
+   line-height: 1.6;
 }

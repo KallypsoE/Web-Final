@@ -47,11 +47,12 @@ div.a {
   margin-left: 48%
 }
 h2{
-
+ line-height: 1.6;
   font-family:lobster;
 }
 p{
    font-family:verdana;
+    line-height: 1.6;
 }
 h1{
   font-family:lobster;
