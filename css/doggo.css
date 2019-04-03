@@ -23,7 +23,7 @@ li a:hover:not(.active) {
   color: white;
 }
 html{
-  background-color: #c6cad1;
+  background-color:#93bcb5;
 }
 
 h1{
@@ -35,9 +35,11 @@ h2{
   color: #000000;
   font-family: Bold italic serif;
    line-height: 1.6;
+  text-align: center;
 }
 
 p{
   font-family:  Helvetica;
-   line-height: 1.6;
+  line-height: 1.6;
+  text-align: center;
 }
